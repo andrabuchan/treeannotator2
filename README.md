@@ -6,7 +6,7 @@ Annotates phylogenetic .contree or .treefile files
 
 ### Annotation CSV file format
 oldheader, newheader
-oldheader, newheader
+
 
 ### Annotation CSV example
 OR271241.1, Bovine coronavirus isolate S3 hemagglutinin esterase and spike genes complete cds [OR271241.1]
